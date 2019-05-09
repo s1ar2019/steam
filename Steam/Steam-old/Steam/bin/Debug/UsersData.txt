@@ -1,0 +1,2 @@
+0;True;Toni;1234;1@2;1000;2000;SpaceInvaders|True|300|100|FirstWin#True#100~SecondWin#False#200\Tetris|False|500|0|FirstLine#False#100~SecondLine#False#200
+1;False;Dani;1234;2@2;3000;4000;SpaceInvaders|True|300|100|FirstWin#False#100~SecondWin#False#200\Tetris|True|500|0|FirstLine#True#100~SecondLine#False#200

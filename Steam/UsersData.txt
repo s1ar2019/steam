@@ -1,0 +1,2 @@
+ID;UserType;Nickname;Password;E-mail;XP;Credit;Name|Enabled|BestScore|Trophies~\Name|Enabled|BestScore|Trophies~    
+0;True;Admin;1234;1@2;1000;1000;Pepe|True|100|True~False\Pepe2_la_venganza|False|0|False~False
